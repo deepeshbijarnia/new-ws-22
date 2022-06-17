@@ -1,2 +1,7 @@
 helllo everyone
 this is devops course
+this includes
+docker 
+kubernetes 
+aws 
+ansible
